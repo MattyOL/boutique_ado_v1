@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-v8+baa)_&b1n6kxj6ivhi+6shsde^)&b6$zemz#c65tzpmwh05
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['boutiquedo.herokuapp.com', 'local host']
+ALLOWED_HOSTS = [ 'boutiquedo-63505fdb9ecd.herokuapp.com', 'local host']
 
 
 # Application definition
